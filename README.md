@@ -9,7 +9,7 @@
 ```
 # Catagories 
 * Reverse Engineering
-  * [picoCTF](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
+  * [picoCTF Forky](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
 * Forensics
   * Wireshark
     * [picoCTF WebNet0](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20WebNet0.pdf) 

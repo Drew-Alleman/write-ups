@@ -9,7 +9,7 @@ write-ups from CTFS and other challenges.
 ```
 # Catagories 
 * Reverse Engineering
-  * [HackTheBox HackyBird] (https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Reversing/HackyBird/HackTheBox%20HackyBird%20%5Bby%200xChad%5D.pdf) 
+  * [HackTheBox HackyBird](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Reversing/HackyBird/HackTheBox%20HackyBird%20%5Bby%200xChad%5D.pdf) 
   * [picoCTF Forky](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
   * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
 * Forensics

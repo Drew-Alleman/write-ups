@@ -13,6 +13,7 @@ write-ups from CTFS and other challenges.
   * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
 * Forensics
   * Wireshark
+    * [hackthebox Market Dump](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Forensics/MarketDump/MarketDump%20%5Bby%20butrintkomoni%5D.pdf)
     * [picoCTF WebNet0](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20WebNet0.pdf) 
     * [picoCTF WebNet1](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20WebNet1.pdf) 
     * [picoCTF shark on wire 1](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20shark%20on%20wire%201.pdf)

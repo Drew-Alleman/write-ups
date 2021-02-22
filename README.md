@@ -12,6 +12,7 @@ write-ups from CTFS and other challenges.
   * [HackTheBox HackyBird](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Reversing/HackyBird/HackTheBox%20HackyBird%20%5Bby%200xChad%5D.pdf) 
   * [picoCTF Forky](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
   * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
+  * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
 * Forensics
   * Wireshark
     * [HackTheBox Market Dump](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Forensics/MarketDump/MarketDump%20%5Bby%20butrintkomoni%5D.pdf)

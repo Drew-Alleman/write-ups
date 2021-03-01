@@ -13,6 +13,7 @@ write-ups from CTFS and other challenges.
   * [picoCTF Forky](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
   * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
   * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
+  * [crackmes.one Wargames](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Wargames/Crackmes%20Wargames.pdf)
 * Forensics
   * Wireshark
     * [HackTheBox Market Dump](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Forensics/MarketDump/MarketDump%20%5Bby%20butrintkomoni%5D.pdf)

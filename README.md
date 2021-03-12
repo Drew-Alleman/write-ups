@@ -19,7 +19,7 @@ write-ups from CTFS and other challenges.
    * Malware
      * Labs From The Book Practical Malware Analysis
        * [1.1](https://github.com/Drew-Alleman/write-ups/blob/main/Pratical%20Malware%20Analysis/Chapter%201%20Labs/Practical%20Malware%20Analysis%20Lab%201-1.pdf)
-       * [l.2](https://github.com/Drew-Alleman/write-ups/blob/main/Pratical%20Malware%20Analysis/Chapter%201%20Labs/Practical%20Malware%20Analysis%20Lab%201-2.pdf)
+       * [1.2](https://github.com/Drew-Alleman/write-ups/blob/main/Pratical%20Malware%20Analysis/Chapter%201%20Labs/Practical%20Malware%20Analysis%20Lab%201-2.pdf)
 * Forensics
   * Wireshark
     * [HackTheBox Market Dump](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Forensics/MarketDump/MarketDump%20%5Bby%20butrintkomoni%5D.pdf)

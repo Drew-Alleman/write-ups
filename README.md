@@ -8,13 +8,18 @@
 write-ups from CTFS and other challenges.
 ```
 # Catagories 
-* Reverse Engineering
-  * [HackTheBox HackyBird](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Reversing/HackyBird/HackTheBox%20HackyBird%20%5Bby%200xChad%5D.pdf) 
-  * [picoCTF Forky](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
-  * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
-  * [crackmes.one Thellurik](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/thellurik/Crackmes%20thellurik.pdf)
-  * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
-  * [crackmes.one Wargames](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Wargames/Crackmes%20Wargames.pdf)
+* Reverse Engineering 
+  * Challenges 
+    * [HackTheBox HackyBird](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Reversing/HackyBird/HackTheBox%20HackyBird%20%5Bby%200xChad%5D.pdf) 
+    * [picoCTF Forky](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Forky.pdf)
+    * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
+    * [crackmes.one Thellurik](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/thellurik/Crackmes%20thellurik.pdf)
+    * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
+    * [crackmes.one Wargames](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Wargames/Crackmes%20Wargames.pdf)
+   * Malware
+     * Labs From Practical Malware Analysis
+       * [1.1](https://github.com/Drew-Alleman/write-ups/blob/main/Pratical%20Malware%20Analysis/Chapter%201%20Labs/Practical%20Malware%20Analysis%20Lab%201-1.pdf)
+       * [l.2](https://github.com/Drew-Alleman/write-ups/blob/main/Pratical%20Malware%20Analysis/Chapter%201%20Labs/Practical%20Malware%20Analysis%20Lab%201-2.pdf)
 * Forensics
   * Wireshark
     * [HackTheBox Market Dump](https://github.com/Drew-Alleman/write-ups/blob/main/hackthebox/Forensics/MarketDump/MarketDump%20%5Bby%20butrintkomoni%5D.pdf)

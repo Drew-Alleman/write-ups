@@ -5,7 +5,7 @@
 ██ ███ ██ ██   ██ ██    ██    ██          ██    ██ ██           ██     
  ███ ███  ██   ██ ██    ██    ███████      ██████  ██      ███████     
                                                                                                                                           
-write-ups from CTFS and other challenges.
+Write-ups from CTFS, Labs and other challenges....
 ```
 # Catagories 
 * Reverse Engineering 

@@ -37,10 +37,10 @@ Write-ups from CTFS, Labs and other challenges....
     * [picoCTF extensions](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20extensions.pdf)
 * General Skills
   * Scripting and Coding
-   * [picoCTF like1000](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20like1000.pdf)
+    * [picoCTF like1000](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20like1000.pdf)
 * Machines
- * [TryHackMe Blue](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Blue/TryHackMe%20_%20Blue.pdf)
- * [TryHackMe Vulnversity](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Vulnversity/TryHackMe%20_%20Vulnversity.pdf)
+  * [TryHackMe Blue](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Blue/TryHackMe%20_%20Blue.pdf)
+  * [TryHackMe Vulnversity](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Vulnversity/TryHackMe%20_%20Vulnversity.pdf)
 * Web
   * SQL Injection 
     * [picoCTF Irish-Name-Repo 1](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Web/picoCTF%20Irish-Name-Repo%201.pdf)

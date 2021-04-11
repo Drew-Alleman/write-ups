@@ -17,6 +17,7 @@ Write-ups from CTFS, Labs and other challenges....
     * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
     * [crackmes.one Wargames](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Wargames/Crackmes%20Wargames.pdf)
     * [crackmes.one Dreammm's First CrackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Dreamm's%20Easy%20-%20Medium%20(My%20first%20CrackMe)/Crackmes.one%20Easy%20-%20Medium%20(My%20first%20CrackMe).pdf)
+    * [OverTheWire Behemoth0](https://github.com/Drew-Alleman/write-ups/blob/main/OverTheWire/Behemoth/Behemoth%20Level%200.pdf)
    * Malware
      * Labs From The Book Practical Malware Analysis
        * [1.1](https://github.com/Drew-Alleman/write-ups/blob/main/Practical%20Malware%20Analysis/Chapter%201%20Labs/Practical%20Malware%20Analysis%20Lab%201-1.pdf)
@@ -38,6 +39,7 @@ Write-ups from CTFS, Labs and other challenges....
 * General Skills
   * Scripting and Coding
     * [picoCTF like1000](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20like1000.pdf)
+    * [OverTheWire Bandit 0-5](https://github.com/Drew-Alleman/write-ups/blob/main/OverTheWire/OverTheWire/OverTheWire%20Bandit%200-5.pdf)
 * Machines
   * [TryHackMe Blue](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Blue/TryHackMe%20_%20Blue.pdf)
   * [TryHackMe Vulnversity](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Vulnversity/TryHackMe%20_%20Vulnversity.pdf)

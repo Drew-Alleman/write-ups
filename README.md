@@ -42,8 +42,6 @@ Write-ups from CTFS, Labs and other challenges....
     * [OverTheWire Bandit 5-10](https://github.com/Drew-Alleman/write-ups/blob/main/OverTheWire/Bandit/OverTheWire%20Bandit%205-10.pdf)
   * Scripting and Coding
     * [picoCTF like1000](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Forensics/picoCTF%20like1000.pdf)
-    * [OverTheWire Bandit 0-5](https://github.com/Drew-Alleman/write-ups/blob/main/OverTheWire/OverTheWire/OverTheWire%20Bandit%200-5.pdf)
-    * 
 * Machines
   * [TryHackMe Blue](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Blue/TryHackMe%20_%20Blue.pdf)
   * [TryHackMe Vulnversity](https://github.com/Drew-Alleman/write-ups/blob/main/TryHackMe/Vulnversity/TryHackMe%20_%20Vulnversity.pdf)

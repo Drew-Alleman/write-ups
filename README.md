@@ -17,6 +17,7 @@ Write-ups from CTFS, Labs and other challenges....
     * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
     * [crackmes.one Wargames](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Wargames/Crackmes%20Wargames.pdf)
     * [crackmes.one Dreammm's First CrackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Dreamm's%20Easy%20-%20Medium%20(My%20first%20CrackMe)/Crackmes.one%20Easy%20-%20Medium%20(My%20first%20CrackMe).pdf)
+    * [crackmes.one Alien_bin](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Alien%20bin/Alien_bin.pdf)
     * [OverTheWire Behemoth0](https://github.com/Drew-Alleman/write-ups/blob/main/OverTheWire/Behemoth/Behemoth%20Level%200.pdf)
    * Malware
      * Labs From The Book Practical Malware Analysis

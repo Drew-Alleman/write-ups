@@ -15,6 +15,7 @@ Write-ups from CTFS, Labs and other challenges....
     * [picoCTF Need For Speed](https://github.com/Drew-Alleman/write-ups/blob/main/picoCTF/Reverse%20Engineering/picoCTF%20Need%20For%20Speed.pdf)
     * [crackmes.one Thellurik](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/thellurik/Crackmes%20thellurik.pdf)
     * [crackmes.one HackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/HackMe/Crackmes%200xD%20HackMe.pdf)
+    * [crackmes.one OwO Very Special Number v1](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/OwO%20Magic%20Number/owo_whats_this's%20Very%20Special%20Number%20v1.pdf)
     * [crackmes.one Wargames](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Wargames/Crackmes%20Wargames.pdf)
     * [crackmes.one Dreammm's First CrackMe](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Dreamm's%20Easy%20-%20Medium%20(My%20first%20CrackMe)/Crackmes.one%20Easy%20-%20Medium%20(My%20first%20CrackMe).pdf)
     * [crackmes.one Alien_bin](https://github.com/Drew-Alleman/write-ups/blob/main/crackmes.one/Alien%20bin/Alien_bin.pdf)

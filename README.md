@@ -6,6 +6,9 @@
  ███ ███  ██   ██ ██    ██    ███████      ██████  ██      ███████     
                                                                                                                                           
 Write-ups from CTFS, Labs and other challenges....
+
+You can find more here https://www.youtube.com/channel/UCFOB2zipRrwJkQ5yKb_uc8Q
+
 ```
 # Catagories 
 * Reverse Engineering 
